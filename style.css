@@ -50,10 +50,6 @@ nav {
     justify-content: center;
 }
 
-#it {
-    transform: translateX(100%);
-}
-
 .slider {
     background-image: url(intro.jpg);
     background-size: cover;
@@ -76,7 +72,7 @@ nav {
 }
 
 .hide span {
-    transform: translateY(100%);
+    transform: translateY(140%);
     display: inline-block;
 }
 
