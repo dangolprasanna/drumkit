@@ -72,7 +72,7 @@ nav {
 }
 
 .hide span {
-    transform: translateY(140%);
+    transform: translateY(200%);
     display: inline-block;
 }
 
